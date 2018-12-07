@@ -5,3 +5,5 @@
  - feature -A
  - fix-B
  - feature - C
+
+ - I'm another developer 
